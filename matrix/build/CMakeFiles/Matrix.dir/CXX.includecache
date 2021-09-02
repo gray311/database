@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/database/matrix/main.cpp
+bits/stdc++.h
+-
+p0_starter.h
+/mnt/e/database/matrix/p0_starter.h
+
+/mnt/e/database/matrix/p0_starter.h
+memory
+-
+stdexcept
+-
+vector
+-
+
